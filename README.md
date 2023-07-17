@@ -49,7 +49,7 @@ This code is designed for scheduling and sending transactions using a smart cont
 1. Clone the repository:
 
    ```
-   git clone https://github.com/RayaneKimo/smart-contracts-in-python
+   git clone https://github.com/RayaneKimo/Smart_Contrat_Python.git
    ```
 
 2. Install the required dependencies using pip:
